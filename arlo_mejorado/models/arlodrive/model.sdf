@@ -25,7 +25,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_base.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_base.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -200,7 +200,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -213,7 +213,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -288,7 +288,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -305,7 +305,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_wheel_mejorado.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -402,7 +402,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -411,7 +411,7 @@
         <pose frame=''>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -462,7 +462,7 @@
         <pose frame=''>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -471,7 +471,7 @@
         <pose frame=''>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -522,7 +522,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -531,7 +531,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/arturo/catkin_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
+            <uri>/home/arturo/tesis_ws/src/arlo_mejorado_precision_llantas/arlo_mejorado/models/arlodrive/meshes/arlo_sensor.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
